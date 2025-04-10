@@ -2,7 +2,7 @@ import math
 
 import matplotlib.pyplot as plt
 
-
+  
 def midPoint(dt, alfa, r, m, g, sx, sy, v, ik, w, b):
 
     t = 0

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class EulerPomiar {
-    private double czas;
+    private double czas; 
     private double polozenie_x;
     private double polozenie_y;
     private double predkosc_x;

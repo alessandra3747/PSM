@@ -1,6 +1,6 @@
 import math
 from matplotlib import pyplot as plt
-
+ 
 #s30395
 
 #ZMIENNE DO OBLICZEŃ
